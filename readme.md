@@ -1,8 +1,8 @@
-# The Animal Server
+# Staring Animals Server
 
 Feeling alone, don't you? No worries, our animals will look at you!
 
-Visit: [The Animal Server](http://seeserver.centralindia.cloudapp.azure.com:8080/)
+Visit: <a href="http://seeserver.centralindia.cloudapp.azure.com:8080/" target="_blank">The Staring Animals Server</a>
 
 ### Preview
 
